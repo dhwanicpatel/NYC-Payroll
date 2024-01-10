@@ -4,7 +4,7 @@
 The primary objective of this analysis is to explore various facets of the payroll structure within the Technology Department of New York City's administration. 
 
 <br>
-### Our goals include:
+Our goals include:
 Investigating the factors that influence salary disparities among employees within the Technology Department.
 <br>
 
