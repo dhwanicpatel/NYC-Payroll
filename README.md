@@ -13,13 +13,13 @@ Evaluating the predictability of an employee’s salary bracket based on their r
 This analysis aims to provide an in-depth understanding of the compensation mechanisms in a critical sector of public administration, offering insights that could inform policy and operational strategies in the technology realm. To achieve these goals, we have delineated the following questions:
 <br>
 
-### 1) What factors contribute to the variations in salaries within the Technology Department?
-### 2) How does the allocation of overtime hours vary among different roles within the Technology Department?
-### 3) What is the relationship between overtime pay and total compensation for various technology-focused job titles?
-### 4) Can we use job titles, departmental roles, and other variables to predict salary brackets for employees in the Technology Department?
+1) What factors contribute to the variations in salaries within the Technology Department?
+2) How does the allocation of overtime hours vary among different roles within the Technology Department?
+3) What is the relationship between overtime pay and total compensation for various technology-focused job titles?
+4) Can we use job titles, departmental roles, and other variables to predict salary brackets for employees in the Technology Department?
 
 <br>
-### Our approach to addressing these questions will include:
+Our approach to addressing these questions will include:
 Exploratory Data Analysis (EDA): Conducting an initial exploration of the dataset to identify trends, patterns, and anomalies specific to the Technology Department.
 Predictive Modeling: Applying linear regression to predict salaries, classification models to categorize employees into different salary brackets, and time-series analysis to understand compensation trends over time within the Technology Department.
 This methodological approach will ensure a detailed and nuanced exploration of the dataset, enabling us to derive substantive conclusions and recommendations pertinent to the technology sector in public administration.
